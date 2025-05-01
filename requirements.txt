@@ -1,6 +1,8 @@
 fastapi
 uvicorn[standard]
+langgraph
+aiosqlite
 transformers
-peft
 torch
-bitsandbytes
+sentence-transformers
+chromadb
