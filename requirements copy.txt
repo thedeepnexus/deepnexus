@@ -1,0 +1,9 @@
+fastapi
+uvicorn[standard]
+
+langgraph
+aiosqlite
+transformers
+torch
+sentence-transformers
+chromadb
